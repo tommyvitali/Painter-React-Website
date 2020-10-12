@@ -2,6 +2,10 @@ You can check this website working at:
 
 https://tommasovitali.altervista.org
 
+I have developed this webapp with
+REACT JS, REACT-ROUTER in 2020
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
