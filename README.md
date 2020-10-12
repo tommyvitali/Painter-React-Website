@@ -2,8 +2,8 @@
 
 https://tommasovitali.altervista.org
 
-I have developed this webapp with
-REACT JS, REACT-ROUTER in 2020
+<b>I have developed this webapp with
+REACT JS, REACT-ROUTER in 2020</b>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
