@@ -1,0 +1,42 @@
+.navColumn {
+    
+    width:10%;
+    height:100vh;
+    margin-top: -120px;
+    text-align:center;
+   
+
+}
+
+.navColumn img {
+    width:50%;
+
+    margin-bottom: 20px;
+    
+    
+}
+
+nav ul {
+    padding:0;
+
+    text-align: center;
+    list-style: none;
+}
+
+nav li {
+    padding:10px 0;
+    font-weight: 500;
+}
+
+nav li:hover {
+    color:rgb(0, 162, 255);
+    cursor: pointer;
+}
+
+.link {
+    text-decoration:none;
+}
+
+.link:visited {
+    color:initial;
+}

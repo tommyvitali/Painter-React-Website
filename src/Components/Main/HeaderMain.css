@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Mrs+Saint+Delafield&display=swap');
+
+
+.header {
+    
+    text-align: center;
+    margin-left: 10%;
+    width:90%;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:30px 0;
+    
+    
+    
+   
+
+    
+    
+
+}
+
+.header .bars {
+    display:none;
+}
+
+label #btn,
+    label #cancel {
+        cursor: pointer;
+        display:none;
+    }
+
+    #check {
+        display:none;
+    }
+
+.header img {
+    width:100px;
+}
+
+.header h1 {
+    font-family: 'Mrs Saint Delafield', cursive;
+    font-weight: 300;
+    font-size: 60px;
+    word-spacing: 10px;
+    margin-bottom: -10px;
+    margin-left: 80px;
+    flex-grow: 2;
+}
+
+.header ul {
+    
+    list-style: none;
+    
+    padding-bottom: 10px;
+    padding-left: 0;
+    margin-right: 30px;
+}
+
+.header ul li {
+    display:inline-block;
+    
+}
+
+.header ul li:last-child {
+    
+    margin-left: 10px;
+}
+
+.header ul li:hover {
+    transform: scale(1.2);
+    transition:0.4s;
+}
+
+
+
+.header a {
+    color:initial;
+    padding:0 10px;
+}
+
+.header a:hover {
+    color:rgb(0, 162, 255);
+    cursor: pointer;
+    
+    transition:0.4s;
+}

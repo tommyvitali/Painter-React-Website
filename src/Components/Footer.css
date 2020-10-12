@@ -1,0 +1,34 @@
+.footer {
+    width:auto;
+    margin-left: 10%;
+    background-color:  rgba(153, 153, 153, 0.219);
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    padding:20px 10px;
+    
+}
+
+.footer a {
+    color:initial;
+}
+
+.footer a:hover {
+    color:rgb(0, 162, 255);
+    cursor: pointer;
+    
+    transition:0.4s;
+}
+
+.first,
+.third {
+    text-align: center;
+}
+
+.second a {
+    padding:0 10px;
+}
+
+.third {
+    font-size: 12px;
+}

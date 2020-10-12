@@ -1,0 +1,41 @@
+
+@media (max-width: 768px)
+{
+    
+    .footer {
+    
+        margin-left: 15%;
+        
+    }
+
+    .first {
+        font-size: 13px;
+    }
+
+    .second {
+        display:flex;
+        flex-direction: column;
+    }
+
+    .second a svg {
+        width:30px;
+        height: 30px;
+    }
+    
+    
+}
+
+@media (max-width: 540px)
+{
+    
+    .footer {
+    
+        margin-left: 0;
+        width:auto;
+        
+    }
+
+  
+    
+    
+}

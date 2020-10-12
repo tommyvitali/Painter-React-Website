@@ -1,0 +1,10 @@
+.App {
+    display:flex;
+    padding-top: 20px;
+}
+
+.layout {
+    display:flex;
+    flex-direction: column;
+    
+}

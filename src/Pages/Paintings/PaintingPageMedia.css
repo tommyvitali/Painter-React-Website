@@ -1,0 +1,26 @@
+
+@media (max-width:992px){
+
+    .mainPhoto img {
+        width:74%;
+        
+    }
+
+    .thumbnail {
+        
+        width: 90%;
+        
+    }
+
+    .descriptionrow p {
+        padding-left: 30px;
+    }
+
+    .button p {
+        width: 40%;
+        
+    }
+
+    
+}
+

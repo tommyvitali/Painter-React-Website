@@ -1,0 +1,91 @@
+
+
+@media (max-width:1920px){
+
+    .contact-card {
+        width:80%;
+       
+    }
+
+    .socialmedia a {
+        width:90%;
+    }
+}
+
+@media (max-width:1600px){
+
+    .contact-card {
+        width:80%;
+       
+    }
+
+    .socialmedia a {
+        width:90%;
+    }
+
+    .socialmedia img {
+    
+        width:80%;
+        
+    }
+}
+
+@media (max-width:768px){
+
+    .contact-card {
+        width:90%;
+       
+    }
+
+    .socialmedia a {
+        width:100%;
+    }
+
+    .socialmedia img {
+    
+        width:80%;
+        
+    }
+}
+
+@media (max-width:540px){
+
+    .contacts {
+        width:100%;
+    }
+    .contact-card {
+        width:100%;
+        margin:0 auto;
+       
+    }
+
+    .contacts h1 {
+        margin-bottom: 66px;
+    }
+
+    
+}
+
+@media (max-width:460px){
+
+    .contact-card {
+        padding-bottom: 0;
+    }
+
+    .icon {
+        justify-content: center;
+    }
+
+    .icon div {
+        width:20%;
+        padding:0 10px;
+    }
+
+    .socialmedia {
+        flex-direction: column;
+    }
+    .icon a svg {
+        font-size: 60px;
+    }
+    
+}

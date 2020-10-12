@@ -1,0 +1,98 @@
+.content {
+    
+    padding:60px 0;
+    
+    background-image: url('../../img/canvas.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width:90%;
+
+}
+
+.content p {
+    font-weight: 500;
+    
+}
+
+.row1 {
+    padding-top: 60px;
+}
+
+.row1,
+.row2 {
+    margin-bottom: 80px;
+    width:100%;
+    text-align: center;
+    
+    ;
+    
+    
+}
+
+.row3 {
+    width:90%;
+    text-align: left;
+    
+    margin-left: 100px;
+}
+
+.row1 .photo:first-child,
+.row2 .photo:first-child,
+.row3 .photo:first-child {
+    margin-left:0;
+    
+}
+
+figcaption {
+    width:100%;
+    
+    
+}
+
+.row3 figcaption {
+    text-align: center;
+}
+.photo {
+    display:inline-block;
+    width:20%;
+    margin-left: 60px;
+    vertical-align: top;
+}
+
+.photo figcaption {
+        padding-top: 10px;
+        font-weight: bold;
+        font-size: 18px;
+}
+
+.photo figcaption span {
+    color:blue;
+    background-color: rgba(0, 0, 0, 0.281);
+}
+
+.photo figcaption em {
+    font-weight: 500;
+}
+
+
+
+.content img {
+    width:100%;
+    
+    border-radius:10px;
+box-shadow: 0px 0px 6px 5px rgba(69,69,69,1);
+}
+
+.firstImage {
+    margin-left: 0;
+}
+
+.content img:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+    transition:0.4s;
+    -webkit-filter: grayscale(50%);
+            filter: grayscale(50%);
+    
+}
